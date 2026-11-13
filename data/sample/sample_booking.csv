@@ -1,0 +1,8 @@
+date,created_by,number,phone_number,status,client_name,service_name,staff_name,service_price,start_time,end_time
+2026-10-31,Business,9882567,+1519884xxxx,Completed,M,MANI &amp; PEDI,Quinie,50,09:30,10:45
+2026-10-31,Business,10124939,+1519635xxxx,Completed,E,BIO GEL REFILL,Victoria,45,09:00,11:00
+2026-10-31,Business,10124939,+1519635xxxx,Completed,E,UV GEL REFILL,Daisy,40,09:00,10:00
+2026-10-31,Client,10365628,+15194044xxxx,Cancel,A,BIO GEL REFILL,Quinie,45,14:00,15:00
+2026-10-31,Client,10365628,+15194044xxxx,Cancel,A,NAIL ART,Quinie,5,15:00,15:15
+2026-10-31,Client,10365628,+15194044xxxx,Cancel,A,PEDICURE,Quinie,35,15:15,16:00
+2026-10-31,Client,10381191,+1519574xxxx,Completed,T,ACRYLIC REFILL,Skyla,35,10:15,11:15
