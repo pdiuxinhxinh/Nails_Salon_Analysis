@@ -22,7 +22,11 @@ Key attributes include booking dates, appointment status, customer information, 
 
 ## Project Workflow
 
-1. **Data Cleaning:** Combine booking files, address data quality issues, anonymize customer information, and engineer relevant features.
+1. **Data Cleaning:** 
+- Combine booking files (3 files for three years: 2024, 2025, 2026)
+- Address data quality issues (spelling errors, data types conversion, missing values)
+- Anonymize customer information (using SHA-256)
+- Engineer relevant features.
 2. **Exploratory Data Analysis:** Explore booking trends, service demand, staff performance, revenue, and cancellations.
 3. **Business Insights:** Interpret findings and develop actionable recommendations for business improvement.
 
