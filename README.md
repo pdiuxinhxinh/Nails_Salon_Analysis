@@ -27,7 +27,7 @@ Key attributes include booking dates, appointment status, customer information, 
 - Address data quality issues (spelling errors, data types conversion, missing values)
 - Anonymize customer information (using SHA-256)
 - Engineer relevant features.
-2. **Exploratory Data Analysis:** Explore booking trends, service demand, staff performance, revenue, and cancellations.
+2. **Exploratory Data Analysis:** Explore booking trends (), service demand, staff performance, revenue, and cancellations.
 3. **Business Insights:** Interpret findings and develop actionable recommendations for business improvement.
 
 ## Tools & Technologies
