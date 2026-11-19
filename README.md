@@ -13,8 +13,11 @@ This project analyzes real-world booking data from a small nail salon to uncover
 - Provide actionable recommendations for business improvement.
 
 ## Dataset
-
-The project uses historical booking records from 2024, 2025, and 2026.
+- Reliable: The datasets come directly from Pedi N Nails's booking website, with no authority granted to modify the information.
+- Original: Same reason as above.
+- Comprehensive: The dataset contains all columns needed to extract features, analyze and create business insights with sufficient sizes.
+- Current: Booking records are from 2024 to 2026, the three most recent years.
+- Cited: The dataset is the private property of Pedi N Nails, located at 655 Parkside, Waterloo, Canada. Any intended use of this dataset must be communicated to and approved by the business in advance. It must not be used for commercial purposes under any circumstances.
 
 Key attributes include booking dates, appointment status, customer information, service names, staff assignments, service prices, and appointment times.
 
@@ -50,8 +53,8 @@ Nails_Salon_DataAnalysis/
 │
 ├── notebooks/
 │   ├── cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   └── 03_business_insights.ipynb
+│   ├── eda.ipynb
+│   └── business_insights.ipynb
 │
 ├── src/
 │   └── anonymize.py
